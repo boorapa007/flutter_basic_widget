@@ -1,4 +1,8 @@
-# ex1_starbuck
+# ex1_starbuck : Basic Widget
+## Name : Boorapa Chrenarrom
+### ID : 6340011007
+
+<img src="assets/images/starbuck.png" style="width: 300px;">
 
 A new Flutter project.
 
