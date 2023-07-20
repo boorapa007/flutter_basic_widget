@@ -59,7 +59,7 @@ class Starbuck extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    "for coffee ☕",
+                    "for coffee ☕🗿",
                     style: TextStyle(
                       fontSize: 55,
                     ),
@@ -137,6 +137,9 @@ class Starbuck extends StatelessWidget {
                 ],
               ),
             ),
+            SizedBox(
+              height: 5,
+            ),
             // 3
             Container(
               padding: EdgeInsets.all(10),
@@ -188,6 +191,9 @@ class Starbuck extends StatelessWidget {
                   ),
                 ],
               ),
+            ),
+                      SizedBox(
+              height: 5,
             ),
             //4
             Container(
